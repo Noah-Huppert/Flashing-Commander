@@ -4,11 +4,11 @@
     "display_name": "Flashing Commanders",
     "description": "Makes all comanders have the energy plant light effect",
     "author": "someonewhoisnobody",
-    "version": "1.0",
-    "build": "61250",
+    "version": "1.1",
+    "build": "61450",
     "date": "2014/2/20",
     "signature": "not yet implemented",
-    "forum": "https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
+    "forum": "https://forums.uberent.com/threads/rel-flashing-commanders.56696/",
     "category": [
         "in-game"
     ],
